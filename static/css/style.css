@@ -1,0 +1,13 @@
+.card .card-item h5{
+    color: salmon;
+}
+
+.card ul li{
+    list-style: none;
+}
+
+.card ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
